@@ -1,4 +1,6 @@
-YouTubeTrends
+YouTube Trends
 =============
 
-YouTube Trends surfaces popular videos in real time, and analyzes phenomena within the YouTube community.
+39 ülkedeki YouTube kullanıcılarının paylaştığı videolardan popüler olanları izleme aparatı.
+
+Ayrıca YouYube'da en yüksek oy alan, sosyal ağlarda en çok paylaşılan, en çok yorum yapılan... videolara erişmenize imkan sağlar.
