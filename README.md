@@ -1,7 +1,7 @@
 YouTube Trends
 =============
 
-39 ülkedeki YouTube kullanıcılarının paylaştığı videolardan popüler olanları izleme aparatı.
+39 ülkedeki YouTube kullanıcılarının paylaştığı videolardan popüler olanları gerçek zamanlı izleme aparatı.
 
 Ayrıca YouYube'da en yüksek oy alan, sosyal ağlarda en çok paylaşılan, en çok yorum yapılan... videolara erişmenize imkan sağlar.
 
